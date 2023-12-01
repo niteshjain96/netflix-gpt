@@ -15,7 +15,7 @@ const Body = () => {
   ])
   return (
     <>
-    <RouterProvider router={appRouter}/>
+    <RouterProvider router={appRouter}/>0o
     </>
   )
 }
