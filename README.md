@@ -1,7 +1,16 @@
 - CreateReact App
     -Tailwind Configuration
     - Header 
+    - Routing of App
     - Login Form
+    - Sign up form
+    - Form  Validation
+    - useRef Hook
+    - Firebase Setup
+    - Deploying app to production
+    - Create Signup User in Firebase
+
+
 
 
 # Features
